@@ -1,0 +1,144 @@
+- @ file:///tmp/build/80754af9/tqdm_1607369919789/work
+-dm @ file:///tmp/build/80754af9/tqdm_1607369919789/work
+-qdm @ file:///tmp/build/80754af9/tqdm_1607369919789/work
+alabaster==0.7.12
+appdirs==1.4.4
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==21.2.0
+Babel==2.9.1
+backcall==0.2.0
+bleach==3.3.0
+brotlipy==0.7.0
+cachey==0.2.1
+certifi==2020.12.5
+cffi @ file:///C:/ci/cffi_1606237165371/work
+chardet @ file:///C:/ci/chardet_1605296577955/work
+cloudpickle==1.6.0
+colorama==0.4.4
+conda==4.9.2
+conda-package-handling @ file:///C:/ci/conda-package-handling_1605484860147/work
+cryptography @ file:///C:/ci/cryptography_1607618721363/work
+cv==1.0.0
+cycler==0.10.0
+dask==2021.7.0
+debugpy==1.3.0
+decorator==4.4.2
+defusedxml==0.7.1
+docstring-parser==0.8.1
+docutils==0.17.1
+entrypoints==0.3
+fenics-dijitso==2019.1.0
+fenics-ffc==2019.1.0.post0
+fenics-fiat==2019.1.0
+fenics-ufl==2019.1.0
+freetype-py==2.2.0
+fsspec==2021.6.1
+h5py==3.3.0
+HeapDict==1.0.1
+hsluv==5.0.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imageio==2.9.0
+imagesize==1.2.0
+ipykernel==6.0.1
+ipython==7.25.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.3
+jedi==0.18.0
+Jinja2==3.0.1
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client==6.1.12
+jupyter-console==6.4.0
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+kiwisolver==1.3.1
+locket==0.2.1
+magicgui==0.2.10
+MarkupSafe==2.0.1
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
+menuinst==1.4.16
+mistune==0.8.4
+mpmath==1.2.1
+napari==0.4.10
+napari-console==0.0.3
+napari-plugin-engine==0.1.9
+napari-svg==0.1.5
+nbclient==0.5.3
+nbconvert==6.1.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+networkx==2.5.1
+notebook==6.4.0
+numpy==1.21.0
+numpydoc==1.1.0
+opencv-python==4.5.3.56
+packaging==21.0
+pandocfilters==1.4.3
+parso==0.8.2
+partd==1.2.0
+pickleshare==0.7.5
+Pillow==8.3.1
+Pint==0.17
+pooch==1.4.0
+prometheus-client==0.11.0
+prompt-toolkit==3.0.19
+psutil==5.8.0
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydantic==1.8.2
+pyFirmata==1.1.0
+Pygments==2.9.0
+PyOpenGL==3.1.5
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1606517880428/work
+pyparsing==2.4.7
+pypylon==1.7.2
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyrsistent==0.18.0
+pyserial==3.5
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-dateutil==2.8.1
+pytz==2021.1
+PyWavelets==1.1.1
+pywin32==228
+pywinpty==1.1.3
+PyYAML==5.4.1
+pyzmq==22.1.0
+qtconsole==5.1.1
+QtPy==1.9.0
+requests @ file:///tmp/build/80754af9/requests_1606691187061/work
+ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1605524207026/work
+scikit-image==0.18.2
+scipy==1.7.0
+Send2Trash==1.7.1
+six @ file:///C:/ci/six_1605205404068/work
+snowballstemmer==2.1.0
+Sphinx==4.1.0
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
+sympy==1.8
+terminado==0.10.1
+testpath==0.5.0
+tifffile==2021.7.2
+tk==0.1.0
+toolz==0.11.1
+tornado==6.1
+tqdm==4.61.2
+traitlets==5.0.5
+typing-extensions==3.10.0.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+vispy==0.7.0
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+wrapt==1.12.1
